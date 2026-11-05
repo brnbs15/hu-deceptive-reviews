@@ -1,0 +1,7 @@
+transformers>=4.40
+sentencepiece
+sacremoses
+scikit-learn>=1.3
+scipy
+pandas
+matplotlib
