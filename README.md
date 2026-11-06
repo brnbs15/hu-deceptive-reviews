@@ -1,7 +1,7 @@
 # Megtévesztő szállodai vélemények felismerése magyar nyelven
 
-Féléves feladat – **Molnár Barnabás**
-Kapcsolódó diplomamunka: *Megtévesztő vélemények detektálása magyar nyelven transformer-alapú hibrid CNN–BiLSTM modellel* (konzulens: Sipos Miklós)
+**Molnár Barnabás (B4R87N)** – Mesterséges intelligencia alkalmazási területei (NBXMA1HMLF/MA1_EA_AT), féléves feladat
+Kapcsolódó diplomamunka: *Megtévesztő vélemények detektálása magyar nyelven transformer-alapú hibrid CNN–BiLSTM modellel*
 
 A feladat: magyar nyelvű szállodai véleményekről eldönteni, hogy **valódiak** vagy **megtévesztők** (kitaláltak). Magyar adathalmaz nincs ilyenre, ezért az angol Ott-féle Deceptive Opinion Spam Corpust (1600 vélemény, 20 chicagói szálloda, 4 × 400 vélemény) fordítjuk le gépi fordítással.
 
